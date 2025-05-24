@@ -18,4 +18,4 @@ Como parte del curso de desarrollo web, realicé la actividad del verificador de
 
 El objetivo principal fue desarrollar una función en JavaScript que permita determinar si una cadena dada es un palíndromo
 
-[https://github.com/SrLLamaDev/eth-kipu-intro/blob/92f117a02c1cc9d724e8376fd88164cdee75dedb/asd22.png](https://raw.githubusercontent.com/SrLLamaDev/eth-kipu-intro/92f117a02c1cc9d724e8376fd88164cdee75dedb/asd22.png)
+https://raw.githubusercontent.com/SrLLamaDev/eth-kipu-intro/92f117a02c1cc9d724e8376fd88164cdee75dedb/asd22.png
